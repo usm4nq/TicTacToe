@@ -1,0 +1,12 @@
+E:\Database C# Project\TicTacTOe\TicTacTOe\bin\Release\TicTacTOe.exe
+E:\Database C# Project\TicTacTOe\TicTacTOe\bin\Release\TicTacTOe.pdb
+E:\Database C# Project\TicTacTOe\TicTacTOe\obj\x86\Release\TicTacTOe.Form1.resources
+E:\Database C# Project\TicTacTOe\TicTacTOe\obj\x86\Release\TicTacTOe.Properties.Resources.resources
+E:\Database C# Project\TicTacTOe\TicTacTOe\obj\x86\Release\TicTacTOe.csproj.GenerateResource.Cache
+E:\Database C# Project\TicTacTOe\TicTacTOe\obj\x86\Release\TicTacTOe.exe
+E:\Database C# Project\TicTacTOe\TicTacTOe\obj\x86\Release\TicTacTOe.pdb
+E:\Database C# Project\TicTacTOe\TicTacTOe\obj\x86\Release\TicTacTOe.csprojResolveAssemblyReference.cache
+E:\Database C# Project\TicTacTOe\TicTacTOe\obj\x86\Release\Interop.ADODB.dll
+E:\Database C# Project\TicTacTOe\TicTacTOe\obj\x86\Release\Interop.DXTMSFTLib.dll
+E:\Database C# Project\TicTacTOe\TicTacTOe\obj\x86\Release\Interop.DXTRANSLib.dll
+E:\Database C# Project\TicTacTOe\TicTacTOe\obj\x86\Release\TicTacTOe.csproj.ResolveComReference.cache
