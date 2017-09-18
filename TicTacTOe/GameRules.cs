@@ -46,6 +46,62 @@ namespace TicTacTOe
 
         public void checkWin(int index)
         {
+            switch (index)
+            {
+                case 0:
+                    Algorithm(0, 1, 2);
+                    Algorithm(0, 3, 6);
+                    Algorithm(0, 4, 8);
+                    break;
+                case 1:
+                    Algorithm(0, 1, 2);
+                    Algorithm(1, 3, 6);
+                    break;
+                case 2:
+                    Algorithm(0, 1, 2);
+                    Algorithm(2, 3, 6);
+                    Algorithm(2, 2, 4);
+                    break;
+                case 3:
+                    Algorithm(3, 1, 2);
+                    Algorithm(0, 3, 6);
+                    break;
+                case 4:
+                    Algorithm(3, 1, 2);
+                    Algorithm(1, 3, 6);
+                    Algorithm(0, 4, 8);
+                    Algorithm(2, 2, 4);
+                    break;
+                case 5:
+                    Algorithm(3, 1, 2);
+                    Algorithm(2, 3, 6);
+                    break;
+                case 6:
+                    Algorithm(6, 1, 2);
+                    Algorithm(0, 3, 6);
+                    Algorithm(2, 2, 4);
+                    break;
+                case 7:
+                    Algorithm(6, 1, 2);
+                    Algorithm(1, 3, 6);
+                    break;
+                case 8:
+                    Algorithm(6, 1, 2);
+                    Algorithm(2, 3, 6);
+                    Algorithm(0, 4, 8);
+                    break;
+                default:
+                    Console.WriteLine("Something went wrong");
+                    break;
+
+            }
+
+
+            /*********************
+             * 
+             * old version
+             * 
+             * 
             Console.WriteLine(index);
             if (index == 0)
             {
@@ -99,6 +155,7 @@ namespace TicTacTOe
                 Algorithm(2, 3, 6);
                 Algorithm(0, 4, 8);
             }
+            */
             
             
         }
